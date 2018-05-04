@@ -11,6 +11,8 @@ Provide a link to your GitHub account here.
 
 ### LinkedIn
 Provide a link to your LinkedIn account here.
+www.linkedin.com/in/sharon-a-249975162
+#### Important Note:  This account is for testing purposes only.
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo.
