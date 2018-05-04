@@ -17,11 +17,11 @@ In the folder, P3-Project_Planning:
 </ul>
 The above wireframes rely on main.css for viewing, which is found in P3-Project_Planning.
 <ul>
-<li>### Wireframe 1
-    ![Screen Shot of Wireframe1_17Apr](../images/Wireframe1_17Apr.png)</li>
-<li>### Wireframe 2
+<li>Wireframe 1<br />
+    <img src="../images/Wireframe1_17Apr.png"></li>
+<li>Wireframe 2<br />
     ![Screen Shot of Wireframe2_17Apr](../images/Wireframe2_17Apr.png)</li>
-<li>### Wireframe 3
+<li>Wireframe 3<br />
     ![Screen Shot of Wireframe3_17Apr](../images/Wireframe3_17Apr.png)</li>
 </ul>
 ### Project Tracker
