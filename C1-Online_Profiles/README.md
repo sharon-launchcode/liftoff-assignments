@@ -11,9 +11,9 @@ Provide a link to your GitHub account here.
 #### https://github.com/austin-2018
 
 ### LinkedIn
-Provide a link to your LinkedIn account here.
-www.linkedin.com/in/sharon-a-249975162
-#### Important Note:  This account is for course testing purposes only.
+Provide a link to your LinkedIn account here.<br />
+#### www.linkedin.com/in/sharon-a-249975162
+### Important Note:  This LinkedIn account is for course testing purposes only.
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo.<br />
