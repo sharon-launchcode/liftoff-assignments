@@ -17,3 +17,4 @@ www.linkedin.com/in/sharon-a-249975162
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo.
+<a href="SharonAustin_Resume.docx (3).pdf">Resume as of May 3, 2018(.pdf)</a>
