@@ -16,13 +16,14 @@ In the folder, P3-Project_Planning:
     <li><a href="wireframe3.html">Wireframe Three</a></li>
 </ul>
 The above wireframes rely on main.css for viewing, which is found in P3-Project_Planning.
-### Wireframe 1
-![Screen Shot of Wireframe1_17Apr](/images/Wireframe1_17Apr.png)
-### Wireframe 2
-![Screen Shot of Wireframe2_17Apr](/images/Wireframe2_17Apr.png)
-### Wireframe 3
-![Screen Shot of Wireframe3_17Apr](/images/Wireframe3_17Apr.png)
-
+<ul>
+<li>### Wireframe 1
+    ![Screen Shot of Wireframe1_17Apr](../images/Wireframe1_17Apr.png)</li>
+<li>### Wireframe 2
+    ![Screen Shot of Wireframe2_17Apr](../images/Wireframe2_17Apr.png)</li>
+<li>### Wireframe 3
+    ![Screen Shot of Wireframe3_17Apr](../images/Wireframe3_17Apr.png)</li>
+</ul>
 ### Project Tracker
 
 https://www.pivotaltracker.com/n/projects/2165791
