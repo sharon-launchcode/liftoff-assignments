@@ -13,8 +13,8 @@ Provide a link to your GitHub account here.
 ### LinkedIn
 Provide a link to your LinkedIn account here.
 www.linkedin.com/in/sharon-a-249975162
-#### Important Note:  This account is for testing purposes only.
+#### Important Note:  This account is for course testing purposes only.
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo.
+You will need to upload a .PDF of your resume to this repo.<br />
 <a href="SharonAustin_Resume.docx (3).pdf">Resume as of May 3, 2018(.pdf)</a>
