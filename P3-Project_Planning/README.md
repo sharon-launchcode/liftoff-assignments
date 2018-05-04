@@ -18,7 +18,7 @@ In the folder, P3-Project_Planning:
 The above wireframes rely on main.css for viewing, which is found in P3-Project_Planning.
 <ul>
 <li>Wireframe 1<br />
-    <img src="../images/Wireframe1_17Apr.png"></li>
+    <img src="/images/Wireframe1_17Apr.png"></li>
 <li>Wireframe 2<br />
     ![Screen Shot of Wireframe2_17Apr](../images/Wireframe2_17Apr.png)</li>
 <li>Wireframe 3<br />
